@@ -21,6 +21,15 @@ Dataset uesd
 - Excel (for dashboard visualization)
 
 ## Dashboard
+### Time Series Analysis
+
+![Dashboard](https://github.com/user-attachments/assets/6d4eb52e-6f22-444e-9664-48d18de22356)
+
+### Customer Purchase Analysis
+![Dashboard2](https://github.com/user-attachments/assets/c87ab2e8-ac10-4670-841e-7a7005e13608)
+
+
+
 
 ## Project Tasks
 
