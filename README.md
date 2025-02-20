@@ -20,6 +20,8 @@ Dataset uesd
 - Python (scipy, statsmodels, scikit-learn, pandas, numpy, seaborn, matplotlib)
 - Excel (for dashboard visualization)
 
+## Dashboard
+
 ## Project Tasks
 
 1. **Transaction Data Examination**:
@@ -27,6 +29,9 @@ Dataset uesd
    - Identified inconsistencies, missing data, and outliers.
    - Ensured category items and numeric data were correctly classified.
    - Cleaned the dataset and saved the processed version.
+  
+Jupiter Notebook
+<a href='https://github.com/Sammycruz007/Sales-KPI-s-and-Drivers-Analysis/blob/main/Quantium%20AB%20Test.py'>JupiterNotebook</a>
 
 2. **Customer Data Examination**:
 
