@@ -12,6 +12,8 @@ The motivation behind this project is to apply the data science skills acquired 
 ## Dataset Information
 
 The dataset was obtained from a virtual internship platform and is designed to mimic a real-life data analyst problem from Quantium.
+Dataset uesd
+-<a href ='https://github.com/Sammycruz007/Sales-KPI-s-and-Drivers-Analysis/blob/main/QVI_purchase_behaviour.csv'>Dataset</a>
 
 ## Tools Used
 
